@@ -10,7 +10,7 @@ The goal is simple: keep whispers, damage, fight history, and external chat easy
 
 Download the latest available version from the Releases page:
 
-**[Download Project Gorgon MultiTool 0.0.5 Beta](https://github.com/Moicanox/Project-Gorgon-MultiTool/releases/tag/v.0.0.5)**
+**[Download Project Gorgon MultiTool 0.0.6 Beta](https://github.com/Moicanox/Project-Gorgon-MultiTool/releases/tag/v.0.0.6)**
 
 ---
 
