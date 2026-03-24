@@ -80,19 +80,20 @@ This tool is built to make the most useful information easier to follow:
 ## Main Window
 The main window gives you quick access to session controls, overlays, whisper settings, and fight history.
 
-<img width="1259" height="845" alt="Screenshot 2026-03-23 210437" src="https://github.com/user-attachments/assets/2e95f08a-684a-4e14-8b71-91a913e6dd07" />
+<img width="1264" height="848" alt="Screenshot 2026-03-24 202840" src="https://github.com/user-attachments/assets/7ee202d0-4a8f-4a5d-9c86-034653d6364a" />
 
 
 ## In-Game Overlays
 Clean, easy-to-read overlays directly on top of the game: whispers on the left and DPS information at the bottom with target, damage, and pet contribution.
 
-<img width="2554" height="1385" alt="Screenshot 2026-03-23 210355" src="https://github.com/user-attachments/assets/91a39a24-9fc9-4291-850e-321d5d6d1fb0" />
+<img width="2543" height="1362" alt="Screenshot 2026-03-24 202820" src="https://github.com/user-attachments/assets/e429008b-ee88-4430-897c-76e11bc4e463" />
+
 
 
 ## External Chat
 A separate chat window with better readability, customizable channel colors, and keyword alerts.
 
-<img width="1161" height="937" alt="Screenshot 2026-03-23 210417" src="https://github.com/user-attachments/assets/f1dfbd10-4bff-4490-b198-7e27af506bd8" />
+---<img width="1159" height="1031" alt="Screenshot 2026-03-24 202853" src="https://github.com/user-attachments/assets/e660174c-d7b7-4354-b099-41f3c2f43d1e" />
 
 
 ## Fight Details
@@ -101,7 +102,7 @@ The fight details window gives you a more complete view of each encounter, inclu
 <img width="1221" height="854" alt="Screenshot 2026-03-23 210450" src="https://github.com/user-attachments/assets/d9c1fdd7-1273-40cd-82c2-fd1737533a52" />
 
 
----
+
 
 ## Main Features at a Glance
 
