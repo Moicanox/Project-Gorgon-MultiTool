@@ -52,6 +52,14 @@ It also includes useful features such as:
 - keyword highlighting
 - optional sound alerts
 
+### Egg Run Overlays
+Includes dedicated Egg Run overlays for:
+- Dreva
+- Arisetsu
+- Strekios
+
+These overlays help you keep the relevant Egg Run information visible while playing, without needing to constantly switch focus.
+
 ### Session Utility
 From the main window you can quickly manage your session:
 - start and stop
